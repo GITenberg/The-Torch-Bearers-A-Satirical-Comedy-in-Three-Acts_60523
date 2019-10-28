@@ -1,0 +1,37 @@
+_repo: The-Torch-Bearers-A-Satirical-Comedy-in-Three-Acts_60523
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Macgowan, Kenneth
+    birthdate: 1888
+    deathdate: 1963
+    gutenberg_agent_id: '48333'
+    url: http://www.gutenberg.org/2009/agents/48333
+    wikipedia: https://en.wikipedia.org/wiki/Kenneth_Macgowan
+creator:
+  author:
+    agent_name: Kelly, George
+    alias: Kelly, George Edward
+    birthdate: 1887
+    deathdate: 1974
+    gutenberg_agent_id: '50999'
+    url: http://www.gutenberg.org/2009/agents/50999
+    wikipedia: https://en.wikipedia.org/wiki/George_Kelly_(playwright)
+description: ''
+gutenberg_issued: '2019-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Upper class -- Drama'
+- !lcsh 'Amateur theater -- Drama'
+- !lcsh 'Interpersonal relations -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: 'The Torch-Bearers: A Satirical Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/60523
